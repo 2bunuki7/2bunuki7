@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://simpleicons.org/icons/archlinux.svg" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** whoami <br>
+<img src="https://simpleicons.org/icons/archlinux.svg" height="12" align="absmiddle" color="#1793D1"> &nbsp;**2bunuki7 ~ ❯** whoami <br>
 > **User:** 2bunuki7 <br>
 > **Pronouns:** she/her<br>
 > **Location:** Prishtina,Kosovo <br>
@@ -13,6 +13,6 @@
 
 
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** bat ~/about.txt <br>
+<img src="https://simpleicons.org/icons/archlinux.svg" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** bat ~/about.txt <br>
 > **Focus:** Second year of highschool as a IT major<br>
 > **Open to:** whatever projects i can find, at the moment im focused on growing my portfolio as much as i can.<br>
