@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://simpleicons.org/icons/monkeytie.svg" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** whoami <br>
+<img src="https://simpleicons.org/icons/monkeytie/#482df7" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** whoami <br>
 > **User:** 2bunuki7 <br>
 > **Pronouns:** she/her<br>
 > **Location:** Prishtina,Kosovo <br>
