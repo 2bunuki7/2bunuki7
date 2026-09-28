@@ -1,9 +1,16 @@
-<p align="center"> 
-  <img src="./download.gif" width="100%"> 
-  <br>
-  <br> 
-  <div align="center">
-    <strong>Hi, I'm Buna Draga</strong>
-    <br><br> <b>I work with HTML, CSS, JavaScript, Python, C#, Java, and SQL.</b>
-    <br>
-    <b>I'm 16 years old and have been programming for 3 years now.</b> </div> </p>
+<h1 align="center">Hi I'm Buna Draga</h1>
+
+<p align="center"><em>""</em></p>
+
+<br>
+
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** whoami <br>
+> **User:** 2bunuki7 <br>
+> **Pronouns:** He/Him <br>
+> **Location:** Prishtina,Kosovo <br>
+> **Languages:** English,Albanian <br>
+
+
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** bat ~/about.txt <br>
+> **Focus:** Second year of highschool as a IT major<br>
+> **Open to:** whatever projects i can find, at the moment im focused on growing my portfolio as much as i can.<br>
