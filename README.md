@@ -4,13 +4,13 @@
 
 <br>
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** whoami <br>
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** whoami <br>
 > **User:** 2bunuki7 <br>
-> **Pronouns:** He/Him <br>
+> **Pronouns:** she/her<br>
 > **Location:** Prishtina,Kosovo <br>
 > **Languages:** English,Albanian <br>
 
 
-<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** bat ~/about.txt <br>
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**2bunuki7 ~ ❯** bat ~/about.txt <br>
 > **Focus:** Second year of highschool as a IT major<br>
 > **Open to:** whatever projects i can find, at the moment im focused on growing my portfolio as much as i can.<br>
