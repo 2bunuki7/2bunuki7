@@ -1,4 +1,4 @@
-<h1 align="center">my proflie</h1>
+<h1 align="center">my profile</h1>
 
 <p align="center">
   <em>
