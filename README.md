@@ -31,3 +31,6 @@
 > Instagram: <a href="https://www.instagram.com/bunuki__/">bunuki__</a> <br>
 > LinkedIn: <a href="https://www.linkedin.com/in/2bunadraga7">Buna Draga</a> <br>
 > Discord: 2702b
+
+> <img src="./archlinux-color.svg" height="20" align="absmiddle">  2bunuki7 ~ ❯ bat ~/Projects.txt
+>Website Blocker: <a href="https://github.com/2bunuki7/WebsiteBlocker">WebsiteBlocker</a> <br>
